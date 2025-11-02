@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Character from './components/Character'
+import Character from "./Character";
 
 const thresholds = [10,20,30,40,50];
 
